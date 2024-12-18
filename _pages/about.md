@@ -17,7 +17,7 @@ I am passionate about designing intelligent systems that address real-world chal
 
 🎓 Academic Pursuits:
 Currently pursuing my undergraduate degree in Robotics and AI, I’ve built a solid foundation in Python programming, AI algorithms, and hands-on implementation. I aspire to join a top-tier institution for my master’s and contribute to cutting-edge research.
------
+
 Research Interests
 =====
 
@@ -33,12 +33,12 @@ Natural Language Processing
 
 🔧 Current Work: I am actively building my portfolio, showcasing innovative applications of robotics and AI, while honing my skills through competitive platforms like Kaggle.
 Site-wide configuration
------
+
 Professional Development
 =====
 🎨 Collaborative Learning: I contribute to open-source projects and engage in the AI community through Kaggle competitions and GitHub repositories.
 
 🌐 Future Goals: Transitioning into advanced research roles and making a global impact in AI innovation.
 
------
+
 I’m excited to share my journey and connect with like-minded individuals in the world of AI and robotics!
