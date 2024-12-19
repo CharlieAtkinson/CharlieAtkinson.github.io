@@ -23,13 +23,10 @@ Research Interests
 
 🧬 Exploring New Frontiers: My key research interests lie in:
 
-Machine Learning Algorithms
-
-Deep Learning (CNNs, Transformers)
-
-Computer Vision
-
-Natural Language Processing
+* Machine Learning Algorithms
+* Deep Learning (CNNs, Transformers)
+* Computer Vision
+* Natural Language Processing
 
 🔧 Current Work: I am actively building my portfolio, showcasing innovative applications of robotics and AI, while honing my skills through competitive platforms like Kaggle.
 Site-wide configuration
