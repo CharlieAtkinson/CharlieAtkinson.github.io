@@ -7,35 +7,37 @@ redirect_from:
   - /about.html
 ---
 
-Innovating in Robotics and AI 🤖 I’m a second-year undergraduate student at the University of Hull with a strong focus on artificial intelligence and machine learning.
+Innovating in Robotics and AI 🤖  
+I’m a second-year undergraduate student at the University of Hull, focusing on artificial intelligence and machine learning.
 
-About Me
-=====
+## About Me
 
-🌐 My Mission:
-I am passionate about designing intelligent systems that address real-world challenges and advance technology. My expertise includes machine learning, computer vision, and natural language processing, and I’m always eager to explore and master new techniques.
+🌐 **Mission**  
+I am passionate about designing intelligent systems that solve real-world problems and drive technological advancement. My expertise includes machine learning, computer vision, and natural language processing, and I’m always eager to explore new challenges.
 
-🎓 Academic Pursuits:
-Currently pursuing my undergraduate degree in Robotics and AI, I’ve built a solid foundation in Python programming, AI algorithms, and hands-on implementation. I aspire to join a top-tier institution for my master’s and contribute to cutting-edge research.
+🎓 **Academic Journey**  
+As a Robotics and AI undergraduate, I’ve built a strong foundation in Python programming, AI algorithms, and hands-on implementations. I aim to pursue a master’s degree at a top-tier institution and contribute to cutting-edge AI research.
 
-Research Interests
-=====
+## Research Interests
 
-🧬 Exploring New Frontiers: My key research interests lie in:
+🧬 **Exploring New Frontiers**  
+Key interests include:
+- Machine Learning Algorithms
+- Deep Learning (CNNs, Transformers)
+- Computer Vision
+- Natural Language Processing
 
-* Machine Learning Algorithms
-* Deep Learning (CNNs, Transformers)
-* Computer Vision
-* Natural Language Processing
+🔧 **Current Projects**  
+I am actively building a portfolio to showcase innovative robotics and AI applications. I’m also honing my skills on competitive platforms like [Kaggle](https://www.kaggle.com).
 
-🔧 Current Work: I am actively building my portfolio, showcasing innovative applications of robotics and AI, while honing my skills through competitive platforms like Kaggle.
-Site-wide configuration
+## Professional Development
 
-Professional Development
-=====
-🎨 Collaborative Learning: I contribute to open-source projects and engage in the AI community through Kaggle competitions and GitHub repositories.
+🎨 **Collaborative Learning**  
+I contribute to open-source projects and participate in Kaggle competitions and GitHub repositories to strengthen my skills.
 
-🌐 Future Goals: Transitioning into advanced research roles and making a global impact in AI innovation.
+🌐 **Future Goals**  
+I aspire to transition into advanced research roles and make a global impact in AI innovation.
 
+---
 
-I’m excited to share my journey and connect with like-minded individuals in the world of AI and robotics!
+I’m excited to share my journey and connect with like-minded individuals in AI and robotics!
