@@ -1,7 +1,11 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "MNIST Digit Classification Neural Network "
+excerpt: "I developed a Neural Network to predict which handwritten digit had been drawn in a 28x28 file. <br/><img src='/images/MNIST_dataset_example'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+I developed a digit classification program in Python that uses the MNIST dataset.
+Used TensorFlow and NumPy to build and train a machine learning model capable of predicting the digit in new images
+it hasn't seen before. This project introduced me to the fundamentals of computer vision, including image
+preprocessing techniques such as normalisation and reshaping.
+Despite initial challenges as it was my first experience with machine learning, I successfully trained an accurate model.
