@@ -1,13 +1,14 @@
 ---
 title: "Using Amazon Quicksight to visualise Netflix's catalogue trends"
-excerpt: "I used AWS services to analyse and visualise a dataset from Netflix's films and TV shows. <br/><img src='/images/500x300.png'>"
+excerpt: "I used AWS services to analyse and visualise a dataset from Netflix's films and TV shows. <br/><img src='/images/FinishedQuickSightPage.png'>"
 collection: portfolio
 ---
 
 # Visualise data with QuickSight
 
-#### Charlie Atkinson
+## Charlie Atkinson
 
+![Finished QuickSight Page](images/QuickSightImages/FinishedQuickSightPage.png)
 
 ## Introducing Today's Project!
 
@@ -30,13 +31,13 @@ surprisingly straightforward. The speed of data processing was also nice.
 
 ### This project took me...
 
-This project only took me around an hour, including creating all of the needed
+This project only took me around an hour, including creating all the needed
 accounts.
 
 
-## Upload project files into S 3
+## Upload project files into S3
 
-S 3 is used in this project to store two files, which are manifest.json and
+S3 is used in this project to store two files, which are manifest.json and
 netflix_titles.csv.
 
 I edited the manifest.json file by changing the URL pointing to the netflix_titles.csv
