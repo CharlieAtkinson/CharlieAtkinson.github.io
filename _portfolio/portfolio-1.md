@@ -1,6 +1,7 @@
 ---
 title: "MNIST Digit Classification Neural Network "
 excerpt: "I developed a Neural Network to predict which handwritten digit had been drawn in a 28x28 file. <br/><img src='/images/MNIST_dataset_example.png' width='500'/>"
+date: 2025-01-03
 collection: portfolio
 ---
 
