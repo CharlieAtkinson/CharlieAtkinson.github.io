@@ -1,6 +1,6 @@
 ---
 title: "Using Amazon Quicksight to visualise Netflix's catalogue trends"
-excerpt: "I used AWS services to analyse and visualise a dataset from Netflix's films and TV shows. <br/><img src='images/QuickSightImages/FinishedQuickSightPage.png'>"
+excerpt: "I used AWS services to analyse and visualise a dataset from Netflix's films and TV shows. <br/><img src='https://raw.githubusercontent.com/CharlieAtkinson/CharlieAtkinson.github.io/master/images/QuickSightImages/FinishedQuickSightPage.png'>"
 collection: portfolio
 ---
 
@@ -8,7 +8,8 @@ collection: portfolio
 
 ## Charlie Atkinson
 
-![Finished QuickSight Page](images/QuickSightImages/FinishedQuickSightPage.png)
+![Finished QuickSight Page](https://raw.githubusercontent.com/CharlieAtkinson/CharlieAtkinson.github.io/master/images/QuickSightImages/FinishedQuickSightPage.png)
+
 
 ## Introducing Today's Project!
 
