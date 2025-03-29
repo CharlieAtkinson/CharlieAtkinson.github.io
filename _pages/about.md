@@ -14,10 +14,8 @@ I’m a second-year undergraduate student at the University of Hull, focusing on
 
 🌐 **Mission**  
 I am passionate about designing intelligent systems that solve real-world problems and drive technological advancement. My expertise includes machine learning, computer vision, and natural language processing, and I’m always eager to explore new challenges.
-
 🎓 **Academic Journey**  
 As a Robotics and AI undergraduate, I’ve built a strong foundation in Python programming, AI algorithms, and hands-on implementations. I aim to pursue a master’s degree at a top-tier institution and contribute to cutting-edge AI research.
-
 ## Research Interests
 
 🧬 **Exploring New Frontiers**  
