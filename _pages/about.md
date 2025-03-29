@@ -40,4 +40,6 @@ I aspire to transition into advanced research roles and make a global impact in 
 
 ---
 
+I’m currently seeking work experience in AI/ML, ideally through a summer internship, to further develop my skills and contribute to meaningful projects.
+
 I’m excited to share my journey and connect with like-minded individuals in AI and robotics!
