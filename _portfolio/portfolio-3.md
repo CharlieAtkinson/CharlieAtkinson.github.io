@@ -44,6 +44,8 @@ netflix_titles.csv.
 I edited the manifest.json file by changing the URL pointing to the netflix_titles.csv
 file to make sure that it pointed to the file in my personal bucket.
 
+![Image1](https://raw.githubusercontent.com/CharlieAtkinson/CharlieAtkinson.github.io/master/images/QuickSightImages/Image1.png)
+
 
 ## Create QuickSight account
 
@@ -53,6 +55,8 @@ screen and will delete the account before the free trial ends.
 
 Creating an account took me less than a minute.
 
+![Image2](https://raw.githubusercontent.com/CharlieAtkinson/CharlieAtkinson.github.io/master/images/QuickSightImages/Image2.png)
+
 
 ## Download the Dataset
 
@@ -61,6 +65,8 @@ side panel in the QuickSight home page.
 
 The manifest.json file was important in this step because it contains the location of
 the data I planned to use.
+
+![Image3](https://raw.githubusercontent.com/CharlieAtkinson/CharlieAtkinson.github.io/master/images/QuickSightImages/Image3.png)
 
 
 ## My first visualisation
@@ -74,15 +80,19 @@ released per year.
 I created this graph by dragging and dropping the release_year field and selecting
 the 'donut chart' option from the dropdown.
 
+![Image4](https://raw.githubusercontent.com/CharlieAtkinson/CharlieAtkinson.github.io/master/images/QuickSightImages/Image4.png)
+
 
 ## Using filters
 
 Filters are useful for visualising specific parts of the data, rather than the data as a
 whole.
 
-This visualisation is a breakdown of all of the tv shows and films that are Action &
+This visualisation is a breakdown of all the tv shows and films that are Action &
 Adventure, Thrillers or TV Comedies. Here I added a filter by clicking on the three
 dots on the 'listen_in' data field on the left-hand side.
+
+![Image5](https://raw.githubusercontent.com/CharlieAtkinson/CharlieAtkinson.github.io/master/images/QuickSightImages/Image5.png)
 
 
 ## Setting up a dashboard
@@ -93,4 +103,4 @@ one is showing.
 Did you know you could export your dashboard as PDFs too? I did this by clicking
 the downwards arrow icon in the top right of the screen.
 
-
+![Finished QuickSight Page](https://raw.githubusercontent.com/CharlieAtkinson/CharlieAtkinson.github.io/master/images/QuickSightImages/FinishedQuickSightPage.png)
