@@ -9,7 +9,7 @@ date: 2025-10-07
 
 ## Charlie Atkinson
 
-![Data Cleaning Code](https://raw.githubusercontent.com/CharlieAtkinson/CharlieAtkinson.github.io/master/images/data_cleaning.png)
+![KagglePage](https://raw.githubusercontent.com/CharlieAtkinson/CharlieAtkinson.github.io/master/images/KagglePage.png)
 
 ## Introduction
 
