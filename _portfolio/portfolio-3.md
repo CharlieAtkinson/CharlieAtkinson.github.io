@@ -2,6 +2,7 @@
 title: "Disaster Tweet Classification Project"
 excerpt: "A deep learning NLP project classifying tweets as real disasters or not. <br/><img src='/images/data_cleaning.png' width='500'/>"
 collection: portfolio
+date: 2025-10-07
 ---
 
 # Disaster Tweet Classification Project

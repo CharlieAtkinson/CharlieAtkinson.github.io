@@ -2,6 +2,7 @@
 title: "Using Amazon Quicksight to visualise Netflix's catalogue trends"
 excerpt: "I used AWS services to analyse and visualise a dataset from Netflix's films and TV shows. <br/><img src='/images/QuickSightImages/FinishedQuickSightPage.png' width='500'/>"
 collection: portfolio
+date: 2025-03-29
 ---
 
 # Visualise data with QuickSight
