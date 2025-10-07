@@ -9,7 +9,7 @@ date: 2025-10-07
 
 ## Charlie Atkinson
 
-![KagglePage](https://raw.githubusercontent.com/CharlieAtkinson/CharlieAtkinson.github.io/master/images/KagglePage.png)
+![KagglePage](https://raw.githubusercontent.com/CharlieAtkinson/CharlieAtkinson.github.io/master/images/Portfolio3Images/KagglePage.png)
 
 ## Introduction
 
@@ -23,7 +23,8 @@ I chose this project because it’s a realistic problem that organizations like 
 
 ## 1. Data Cleaning and Preprocessing
 
-![Data Cleaning Code](https://raw.githubusercontent.com/CharlieAtkinson/CharlieAtkinson.github.io/master/images/data_cleaning.png)
+![Imports Code](https://raw.githubusercontent.com/CharlieAtkinson/CharlieAtkinson.github.io/master/images/Portfolio3Images/ImportsCode.png)
+![Cleaning Data Code](https://raw.githubusercontent.com/CharlieAtkinson/CharlieAtkinson.github.io/master/images/Portfolio3Images/CleaningDataCode.png)
 
 The first step was to clean the tweet text. I removed URLs, mentions, hashtags, and special characters, and converted everything to lowercase. This makes the text consistent, which is important for the tokenizer and helps the model learn patterns more effectively.
 
@@ -31,7 +32,7 @@ The first step was to clean the tweet text. I removed URLs, mentions, hashtags, 
 
 ## 2. Keyword and Location Preprocessing
 
-![Keyword/Location Code](https://raw.githubusercontent.com/CharlieAtkinson/CharlieAtkinson.github.io/master/images/keyword_location.png)
+![Keyword/Location Code](https://raw.githubusercontent.com/CharlieAtkinson/CharlieAtkinson.github.io/master/images/Portfolio3Images/keyword_location.png)
 
 Some tweets didn’t have keywords or locations, so I replaced missing values with placeholders. Keywords were tokenised and padded so the model could understand them as numbers, while locations were integer encoded.
 
@@ -39,7 +40,7 @@ Some tweets didn’t have keywords or locations, so I replaced missing values wi
 
 ## 3. Tokenization and Embeddings
 
-![Tokenization/Embedding Code](https://raw.githubusercontent.com/CharlieAtkinson/CharlieAtkinson.github.io/master/images/tokenization_embedding.png)
+![Tokenization/Embedding Code](https://raw.githubusercontent.com/CharlieAtkinson/CharlieAtkinson.github.io/master/images/Portfolio3Images/tokenization_embedding.png)
 
 Next, I turned all the cleaned tweet text into sequences of integers using Keras’s tokeniser. Sequences were padded so every input had the same length. I also loaded pre-trained GloVe embeddings into an embedding matrix to give the model rich word representations, which helps it understand semantic relationships between words without having to learn everything from scratch.
 
@@ -47,7 +48,7 @@ Next, I turned all the cleaned tweet text into sequences of integers using Keras
 
 ## 4. Model Architecture
 
-![Model Architecture Code](https://raw.githubusercontent.com/CharlieAtkinson/CharlieAtkinson.github.io/master/images/model_architecture.png)
+![Model Architecture Code](https://raw.githubusercontent.com/CharlieAtkinson/CharlieAtkinson.github.io/master/images/Portfolio3Images/model_architecture.png)
 
 The model is a multi-input neural network. The main text is processed through a bidirectional LSTM with GloVe embeddings. Keywords and location are processed separately using embedding layers. The outputs from all branches are concatenated and passed through dense layers with dropout to produce a single probability prediction, allowing the model to learn from text and categorical features together.
 
@@ -55,7 +56,7 @@ The model is a multi-input neural network. The main text is processed through a 
 
 ## 5. Training
 
-![Training Code](https://raw.githubusercontent.com/CharlieAtkinson/CharlieAtkinson.github.io/master/images/training.png)
+![Training Code](https://raw.githubusercontent.com/CharlieAtkinson/CharlieAtkinson.github.io/master/images/Portfolio3Images/training.png)
 
 I trained the model on a 90/10 train-validation split. Class weights were used to balance the impact of underrepresented disaster tweets. I also included EarlyStopping and ReduceLROnPlateau callbacks to prevent overfitting and adjust the learning rate automatically, which helps the model converge efficiently.
 
@@ -63,7 +64,7 @@ I trained the model on a 90/10 train-validation split. Class weights were used t
 
 ## 6. Evaluation
 
-![Evaluation Code](https://raw.githubusercontent.com/CharlieAtkinson/CharlieAtkinson.github.io/master/images/evaluation.png)
+![Evaluation Code](https://raw.githubusercontent.com/CharlieAtkinson/CharlieAtkinson.github.io/master/images/Portfolio3Images/evaluation.png)
 
 The model achieved an overall accuracy of 81.9% and an F1 score of 0.787, showing that it performs well at distinguishing between disaster and non-disaster tweets. The ROC AUC of 0.870 and Average Precision of 0.871 indicate strong ranking performance, meaning the model assigns higher probabilities to true disaster tweets more often than not.
 
@@ -73,7 +74,7 @@ Looking at per-class metrics, the model predicts non-disaster tweets (class 0) w
 
 ## 7. Test Predictions and Submission
 
-![Submission Code](https://raw.githubusercontent.com/CharlieAtkinson/CharlieAtkinson.github.io/master/images/submission.png)
+![Submission Code](https://raw.githubusercontent.com/CharlieAtkinson/CharlieAtkinson.github.io/master/images/Portfolio3Images/submission.png)
 
 Finally, I predicted on the test set using the best threshold and saved the results as a submission file. This completes the end-to-end workflow from raw data to actionable predictions. When I uploaded my submission to Kaggle.com, I achieved a score of 0.80140.
 
