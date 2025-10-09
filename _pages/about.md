@@ -8,12 +8,12 @@ redirect_from:
 ---
 
 Innovating in Robotics and AI 🤖  
-I’m a second-year undergraduate student at the University of Hull, focusing on artificial intelligence and machine learning.
+I’m a final-year undergraduate student at the University of Hull, focusing on Artificial Intelligence and Machine Learning.
 
 ## About Me
 
 🌐 **Mission**  
-I am passionate about designing intelligent systems that solve real-world problems and drive technological advancement. My expertise includes machine learning, computer vision, and natural language processing, and I’m always eager to explore new challenges.
+I’m driven by the goal of designing and developing intelligent solutions that tackle real-world challenges. My skill set includes machine learning, deep learning, natural language processing, and computer vision. I’m constantly expanding my knowledge through hands-on projects and self-learning.
 
 🎓 **Academic Journey**  
 As a Robotics and AI undergraduate, I’ve built a strong foundation in Python programming, AI algorithms, and hands-on implementations. I aim to pursue a master’s degree at a top-tier institution and contribute to cutting-edge AI research.
@@ -26,13 +26,18 @@ Key interests include:
 - Computer Vision
 - Natural Language Processing
 
+🧰 **Technical Skills**  
+- Python, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch  
+- NLP pipelines, tokenisation, embeddings (GloVe, Word2Vec, BERT)  
+- Data preprocessing, visualisation, and model evaluation  
+- Multi-input deep learning models  
+- Git, GitHub, Kaggle, Jupyter Notebooks  
+
+
 🔧 **Current Projects**  
-I am actively building a portfolio to showcase innovative robotics and AI applications. I’m also honing my skills on competitive platforms like [Kaggle](https://www.kaggle.com).
+I’m actively building a portfolio that showcases AI-driven solutions, including NLP classification models, computer vision applications, and robotics projects. I also compete in [Kaggle](https://www.kaggle.com) challenges to sharpen my practical ML skills and my most recent submission scored **0.80140** on the *Disaster Tweet Classification* leaderboard.
 
 ## Professional Development
-
-🎨 **Collaborative Learning**  
-I contribute to open-source projects and participate in Kaggle competitions and GitHub repositories to strengthen my skills.
 
 🌐 **Future Goals**  
 I aspire to transition into advanced research roles and make a global impact in AI innovation.
