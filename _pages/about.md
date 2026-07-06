@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello there, I’m Charlie!"
+title: "Hi, I’m Charlie! 👋"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 Innovating in Robotics and AI 🤖  
-I recently completed my degree BSc Robotics & Artificial Intelligence at the University of Hull, focusing on Artificial Intelligence and Machine Learning.
-I am relocating to Vancouver and am fully authorized to work via IEC Work Permit.
+I recently completed my BSc degree in Robotics & Artificial Intelligence at the University of Hull, focusing on Artificial Intelligence and Machine Learning. I am currently relocating to Vancouver and am fully authorized to work immediately via an IEC Work Permit.
 
 ## About Me
 
@@ -17,7 +16,8 @@ I am relocating to Vancouver and am fully authorized to work via IEC Work Permit
 I’m driven by the goal of designing and developing intelligent solutions that tackle real-world challenges. My skill set includes machine learning, deep learning, natural language processing, and computer vision. I’m constantly expanding my knowledge through hands-on projects and self-learning.
 
 🎓 **Academic Journey**  
-As a Robotics and AI undergraduate, I’ve built a strong foundation in Python programming, AI algorithms, and hands-on implementations. I aim to pursue a master’s degree at a top-tier institution and contribute to cutting-edge AI research.
+As a Robotics and AI undergraduate, I’ve built a strong foundation in Python programming, AI algorithms, and hands-on implementations. I aim to apply my background to cutting-edge AI research and industry innovation.
+
 ## Research Interests
 
 🧬 **Exploring New Frontiers**  
@@ -36,9 +36,8 @@ Key interests include:
 * **Data Engineering & BI:** Data preprocessing, visualization, model evaluation, Amazon QuickSight
 * **Tools & Platforms:** Git, GitHub, Jupyter Notebooks, Kaggle, ROS2, Linux, Excel
 
-
 🔧 **Current Projects & Experience**  
-I’m actively building a portfolio that showcases practical, data-driven solutions. My recent work includes engineering cloud-based BI data pipelines on AWS QuickSight, and developing deep learning applications for computer vision and NLP. I also compete in [Kaggle](https://www.kaggle.com) challenges to sharpen my hands-on machine learning skills; my recent submission scored **0.80140** on the *Disaster Tweet Classification* leaderboard.
+I’m actively building a portfolio that showcases practical, data-driven solutions. My recent work includes engineering cloud-based BI data pipelines on AWS QuickSight and developing deep learning applications for computer vision and NLP. I also compete in [Kaggle](https://www.kaggle.com) challenges to sharpen my hands-on machine learning skills; my recent submission scored **0.80140** on the *Disaster Tweet Classification* leaderboard.
 
 ## Professional Development
 
