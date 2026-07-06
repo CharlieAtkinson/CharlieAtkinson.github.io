@@ -35,7 +35,7 @@ Key interests include:
 * **Tools and Platforms:** Git, GitHub, Jupyter Notebooks, Kaggle, ROS2, Linux, Excel
 
 🔧 **Current Projects and Experience**  
-I’m actively building a portfolio that showcases practical, data-driven solutions. My recent work includes engineering cloud-based BI data pipelines on AWS QuickSight and developing deep learning applications for computer vision and NLP. I also compete in [Kaggle](https://www.kaggle.com) challenges to sharpen my hands-on machine learning skills; my recent submission scored **0.80140** on the *Disaster Tweet Classification* leaderboard.
+I’m actively building a portfolio that showcass practical, data-driven solutions. My recent work includes engineering cloud-based BI data pipelines on AWS QuickSight and developing deep learning applications for computer vision and NLP. I also compete in [Kaggle](https://www.kaggle.com) challenges to sharpen my hands-on machine learning skills; my recent submission scored **0.80140** on the *Disaster Tweet Classification* leaderboard.
 
 ## Professional Development
 
