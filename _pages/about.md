@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Innovating in Robotics and AI 🤖  
-I recently completed my BSc degree in Robotics & Artificial Intelligence at the University of Hull, focusing on Artificial Intelligence and Machine Learning. I am currently relocating to Vancouver and am fully authorized to work immediately via an IEC Work Permit.
+Innovating in Robotics and AI. I recently completed my BSc degree in Robotics and Artificial Intelligence at the University of Hull, focusing on Artificial Intelligence and Machine Learning. I am currently relocating to Vancouver and am fully authorized to work immediately via an IEC Work Permit.
 
 ## About Me
 
@@ -29,14 +28,13 @@ Key interests include:
 - Reinforcement Learning
 
 🧰 **Technical Skills**  
+* **Languages and Web:** Python, C#, JavaScript, HTML, CSS, SQL, Arduino
+* **Machine Learning and Data Science:** TensorFlow, Scikit-learn, NumPy, Pandas, PyTorch
+* **NLP and Computer Vision:** Tokenization, NLP pipelines, embeddings (GloVe, Word2Vec, BERT), multi-input deep learning models
+* **Data Engineering and BI:** Data preprocessing, visualization, model evaluation, Amazon QuickSight
+* **Tools and Platforms:** Git, GitHub, Jupyter Notebooks, Kaggle, ROS2, Linux, Excel
 
-* **Languages & Web:** Python, C#, JavaScript, HTML, CSS, SQL, Arduino
-* **Machine Learning & Data Science:** TensorFlow, Scikit-learn, NumPy, Pandas, PyTorch
-* **NLP & Computer Vision:** Tokenization, NLP pipelines, embeddings (GloVe, Word2Vec, BERT), multi-input deep learning models
-* **Data Engineering & BI:** Data preprocessing, visualization, model evaluation, Amazon QuickSight
-* **Tools & Platforms:** Git, GitHub, Jupyter Notebooks, Kaggle, ROS2, Linux, Excel
-
-🔧 **Current Projects & Experience**  
+🔧 **Current Projects and Experience**  
 I’m actively building a portfolio that showcases practical, data-driven solutions. My recent work includes engineering cloud-based BI data pipelines on AWS QuickSight and developing deep learning applications for computer vision and NLP. I also compete in [Kaggle](https://www.kaggle.com) challenges to sharpen my hands-on machine learning skills; my recent submission scored **0.80140** on the *Disaster Tweet Classification* leaderboard.
 
 ## Professional Development
