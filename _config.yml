@@ -304,6 +304,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+  - jekyll-remote-theme      
+  - jekyll-include-cache     
+remote_theme: "mmistakes/minimal-mistakes" 
 
 # Mimic GitHub Pages with --safe
 whitelist:
@@ -313,7 +316,8 @@ whitelist:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
-
+  - jekyll-remote-theme     
+  - jekyll-include-cache   
 
 # Archives
 #  Type
