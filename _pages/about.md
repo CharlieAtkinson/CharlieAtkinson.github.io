@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 Innovating in Robotics and AI 🤖  
-I’m a final-year undergraduate student at the University of Hull, focusing on Artificial Intelligence and Machine Learning.
+I recently completed my degree BSc Robotics & Artificial Intelligence at the University of Hull, focusing on Artificial Intelligence and Machine Learning.
+I am relocating to Vancouver and am fully authorized to work via IEC Work Permit.
 
 ## About Me
 
@@ -25,25 +26,27 @@ Key interests include:
 - Deep Learning (CNNs, Transformers)
 - Computer Vision
 - Natural Language Processing
+- Reinforcement Learning
 
 🧰 **Technical Skills**  
-- Python, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch  
-- NLP pipelines, tokenisation, embeddings (GloVe, Word2Vec, BERT)  
-- Data preprocessing, visualisation, and model evaluation  
-- Multi-input deep learning models  
-- Git, GitHub, Kaggle, Jupyter Notebooks  
+
+* **Languages & Web:** Python, C#, JavaScript, HTML, CSS, SQL, Arduino
+* **Machine Learning & Data Science:** TensorFlow, Scikit-learn, NumPy, Pandas, PyTorch
+* **NLP & Computer Vision:** Tokenization, NLP pipelines, embeddings (GloVe, Word2Vec, BERT), multi-input deep learning models
+* **Data Engineering & BI:** Data preprocessing, visualization, model evaluation, Amazon QuickSight
+* **Tools & Platforms:** Git, GitHub, Jupyter Notebooks, Kaggle, ROS2, Linux, Excel
 
 
-🔧 **Current Projects**  
-I’m actively building a portfolio that showcases AI-driven solutions, including NLP classification models, computer vision applications, and robotics projects. I also compete in [Kaggle](https://www.kaggle.com) challenges to sharpen my practical ML skills and my most recent submission scored **0.80140** on the *Disaster Tweet Classification* leaderboard.
+🔧 **Current Projects & Experience**  
+I’m actively building a portfolio that showcases practical, data-driven solutions. My recent work includes engineering cloud-based BI data pipelines on AWS QuickSight, and developing deep learning applications for computer vision and NLP. I also compete in [Kaggle](https://www.kaggle.com) challenges to sharpen my hands-on machine learning skills; my recent submission scored **0.80140** on the *Disaster Tweet Classification* leaderboard.
 
 ## Professional Development
 
 🌐 **Future Goals**  
-I aspire to transition into advanced research roles and make a global impact in AI innovation.
+I aspire to build scalable, intelligent systems and make a tangible impact by helping organizations leverage AI to optimize their data, streamline workflows, and make smarter decisions.
 
 ---
 
-I’m now focused on securing a graduate role in AI/ML for 2026, aiming to apply my skills to meaningful, high-impact projects and take the next step in my career.
+I am currently focused on securing a full-time **Junior Developer**, **AI/ML Engineer**, or **Graduate Data Science** role in the Vancouver area. I’m excited to apply my skills to meaningful, high-impact projects, learn from experienced leadership, and take the next step in my career.
 
-I’m excited to share my journey and connect with like-minded individuals in AI and robotics!
+Let's connect! I’m always open to discussing new technical projects, automation ideas, or opportunities in the tech space.
