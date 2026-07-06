@@ -2,16 +2,22 @@
 ---
 
 /*
- *    Minimal Mistakes Jekyll Theme
+ * Minimal Mistakes Jekyll Theme
  *
- *  - Michael Rose
- *  - mademistakes.com
- *  - https://twitter.com/mmistakes
+ * - Michael Rose
+ * - mademistakes.com
+ * - https://twitter.com/mmistakes
  *
-*/
+ */
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
+
+// Move Font Awesome up so its variables are declared before layout files try to use them
+@import "vendor/font-awesome/fontawesome";
+@import "vendor/font-awesome/solid";
+@import "vendor/font-awesome/brands";
+
 @import "mixins";
 @import "vendor/susy/susy";
 
@@ -34,8 +40,5 @@
 @import "archive";
 @import "sidebar";
 
-@import "vendor/font-awesome/fontawesome";
-@import "vendor/font-awesome/solid";
-@import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
