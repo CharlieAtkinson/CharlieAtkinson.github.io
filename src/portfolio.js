@@ -10,7 +10,7 @@ import splashAnimation from "./assets/lottie/splashAnimation"; // Rename to your
 const splashScreen = {
   enabled: true, // set false to disable splash screen
   animation: splashAnimation,
-  duration: 2000 // Set animation duration as per your animation
+  duration: 1000 // Set animation duration as per your animation
 };
 
 // Summary And Greeting Section
@@ -34,7 +34,7 @@ const greeting = {
 const socialMediaLinks = {
   github: "https://github.com/charlieatkinson",
   linkedin: "https://www.linkedin.com/", // Add your LinkedIn URL if available
-  gmail: "charlie@charlesxatkinson.co.uk",
+  email: "charlie@charlesxatkinson.co.uk",
   gitlab: "",
   facebook: "",
   medium: "",
