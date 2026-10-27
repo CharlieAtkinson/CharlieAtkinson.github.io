@@ -53,7 +53,9 @@ const skillsSection = {
     emoji(
       "⚡ Build robust Machine Learning and Deep Learning models for classification, NLP, and predictive tasks"
     ),
-    emoji("⚡ Develop real-time computer vision systems using YOLOv11 and OpenCV"),
+    emoji(
+      "⚡ Develop real-time computer vision systems using YOLOv11 and OpenCV"
+    ),
     emoji(
       "⚡ Implement autonomous multi-agent simulations and robotics solutions using ROS 2 Humble and Python"
     )
@@ -183,12 +185,14 @@ const openSource = {
 
 const bigProjects = {
   title: "Projects",
-  subtitle: "SOME KEY MACHINE LEARNING, DEEP LEARNING, AND CLOUD PROJECTS THAT I HAVE BUILT",
+  subtitle:
+    "SOME KEY MACHINE LEARNING, DEEP LEARNING, AND CLOUD PROJECTS THAT I HAVE BUILT",
   projects: [
     {
       image: require("./assets/images/saayaHealthLogo.webp"), // Update image if available
       projectName: "Disaster Tweet Classification",
-      projectDesc: "Built a text classification model in Python using GloVe embeddings and multi-input neural networks with bidirectional LSTMs to identify disaster tweets (81.9% accuracy).",
+      projectDesc:
+        "Built a text classification model in Python using GloVe embeddings and multi-input neural networks with bidirectional LSTMs to identify disaster tweets (81.9% accuracy).",
       footerLink: [
         {
           name: "View on GitHub",
@@ -199,7 +203,8 @@ const bigProjects = {
     {
       image: require("./assets/images/nextuLogo.webp"), // Update image if available
       projectName: "Netflix Catalogue Trends Visualisation",
-      projectDesc: "Analysed and visualised Netflix's catalogue data using Amazon QuickSight and AWS S3 to build interactive dashboards for insight discovery.",
+      projectDesc:
+        "Analysed and visualised Netflix's catalogue data using Amazon QuickSight and AWS S3 to build interactive dashboards for insight discovery.",
       footerLink: [
         {
           name: "View on GitHub",
@@ -238,7 +243,8 @@ const achievementSection = {
     },
     {
       title: "CyberCenturion Participant",
-      subtitle: "Competed twice in the 6-hour cyber security challenge finding vulnerabilities across Linux virtual machines.",
+      subtitle:
+        "Competed twice in the 6-hour cyber security challenge finding vulnerabilities across Linux virtual machines.",
       image: require("./assets/images/CyberCenturionLogo.png"),
       imageAlt: "CyberCenturion Logo",
       footerLink: []
