@@ -157,7 +157,7 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Data Science Intern / Project",
+      role: "Data Science Work Experience Project",
       company: "Virgin Media O2 (UK)",
       companylogo: require("./assets/images/VirginLogo.png"),
       date: "Summer 2024",
